@@ -12,6 +12,15 @@
 
 
 ```jdata json input
+
 this is cool i cant start project to build 100 rest api free and i cant make website to deployed all api dummy free
 ```
 
+ # requirement
+ 
+|   |  ✔️ available  | ❌ Unavailable |
+|:-----|:--------:|------:|
+|database||❌|
+|javascript|✔️||
+|Happy|✔️||
+|nodes|✔️||
