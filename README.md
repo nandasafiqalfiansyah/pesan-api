@@ -1,4 +1,7 @@
 # this is dummy api message
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ML-For-Beginners.svg?style=social&label=Watch)](https://github.com/nandasafiqalfiansyah/pesan-api)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://github.com/nandasafiqalfiansyah/pesan-api)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://github.com/nandasafiqalfiansyah/pesan-api)
 
 > 🎅 Old Saint Nick
 >
