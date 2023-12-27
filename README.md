@@ -27,3 +27,4 @@
 |javascript|✔️||
 |nodes|✔️||
 |Hapi|✔️||
+|nanoid|✔️||
