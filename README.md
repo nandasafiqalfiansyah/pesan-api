@@ -18,11 +18,6 @@
 | https://pesan-api.vercel.app/v1/pesan/:id | **delete by id** | all |
 
 
-```jdata json input
-
-this is cool i cant start project to build 100 rest api free and i cant make website to deployed all api dummy free
-```
-
  # requirement
  
 |   |  available  | Unavailable |
