@@ -26,3 +26,4 @@
 |array|✔️||
 |javascript|✔️||
 |nodes|✔️||
+|Hapi|✔️||
