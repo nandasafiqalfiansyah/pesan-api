@@ -21,6 +21,6 @@ this is cool i cant start project to build 100 rest api free and i cant make web
 |   |  ✔️ available  | ❌ Unavailable |
 |:-----|:--------:|:------:|
 |database||❌|
+|array|✔️||
 |javascript|✔️||
-|Happy|✔️||
 |nodes|✔️||
