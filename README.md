@@ -18,7 +18,7 @@ this is cool i cant start project to build 100 rest api free and i cant make web
 
  # requirement
  
-|   |  ✔️ available  | ❌ Unavailable |
+|   |  available  | Unavailable |
 |:-----|:--------:|:------:|
 |database||❌|
 |array|✔️||
