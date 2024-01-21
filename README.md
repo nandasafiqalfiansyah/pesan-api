@@ -12,7 +12,6 @@
 > 'Twas the night before Christmas, when all through the house not a creature was stirring, not even a mouse. The stockings were hung by the chimney with care, in hopes that St. Nicholas soon would be there. The children were nestled all snug in their beds, while visions of sugar plums danced in their heads.
 
 
-🇮🇩
 | end point |  route  | data |
 |:-----|:--------:|:------:|
 | https://pesan-api.vercel.app/v1/pesan | **get all** | all  |
