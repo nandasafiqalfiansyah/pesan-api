@@ -27,6 +27,7 @@
 |database||❌|
 |array|✔️||
 |javascript|✔️||
-|nodes|✔️||
+|node|✔️||
 |Hapi|✔️||
 |nanoid|✔️||
+|eslint|✔️||
